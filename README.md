@@ -5,7 +5,7 @@ Bu layihə, Kaggle platformasından götürülmüş real bank kredit datası əs
 
 ## 🛠️ İstifadə Olunan Texnologiyalar (Tech Stack)
 * **Python (Pandas):** İlkin məlumatların təmizlənməsi, çatışmayan dəyərlərin (Missing values) doldurulması və anomal dəyərlərin (Outliers) nizamlanması.
-* **Oracle SQL / PostgreSQL:** Təmizlənmiş datanın bazaya miqrasiyası, performans üçün optimallaşdırılmış View-ların yaradılması və analitik sorğuların (Aggregations) yazılması.
+* **Oracle SQL:** Təmizlənmiş datanın bazaya miqrasiyası, performans üçün optimallaşdırılmış View-ların yaradılması və analitik sorğuların (Aggregations) yazılması.
 * **Power BI Desktop & Power Query:** * SQL tərəfindən hazırlanmış tək bütöv görünüş (Flat View) əsasında datanın optimallaşdırılması.
   * **Məlumat Tiplərinin Strukturlaşdırılması (Data Type Mapping):** Hesabatın düzgün işləməsi və DAX analizləri üçün mətn, tam ədəd (Integer), onluq kəsr (Decimal) və xüsusi olaraq `LOAN_STATUS` (Default flag) sütununun faiz/faiz dərəcəsi formatına konvertasiya edilməsi.
   * DAX ölçülərinin (Measures) yazılması və dinamik dashboard-un dizayn edilməsi.
