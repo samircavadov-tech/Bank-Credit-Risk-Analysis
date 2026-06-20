@@ -41,7 +41,7 @@ Dashboard-da istifadə olunan əsas daxili ölçülər:
 * **Sağ Panel:** Yaş qruplarının payı (Donut) və Reytinqə görə risk artımı (Sütun).
 
 ---
-Analitik: **C.Samir** *7+ illik Sənaye mühəndisliyi təcrübəsinin Data Analitikası alətləri ilə inteqrasiyası.*
+Analitik: **C.Samir** 
 
 
 
